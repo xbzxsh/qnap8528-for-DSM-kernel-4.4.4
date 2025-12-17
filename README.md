@@ -1,3 +1,5 @@
+让ai修改了一些在4.4.4内核中无法使用的系统接口，编译后实测可以读取和写入风扇pwm信息，可以被coolercontrol控制，可以读取ec芯片上的温度信息。其它功能没有测试
+
 - [Overview](#overview)
   - [Supported features](#supported-features)
 - [Installation Instructions](#installation-instructions)
